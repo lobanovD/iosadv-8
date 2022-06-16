@@ -5,8 +5,7 @@
 - SwiftUI
 - LocalAuthentication (FaceID/TouchID)
 ***
-![Screenshot](none.png )
-![Screenshot](faceID.png)
-![Screenshot](touchID.png)
 
 <img src="none.png" width="500">
+<img src="faceID.png" width="500">
+<img src="touchID.png" width="500">
