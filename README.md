@@ -6,6 +6,6 @@
 - LocalAuthentication (FaceID/TouchID)
 ***
 
-<img src="none.png" width="500">
-<img src="faceID.png" width="500">
-<img src="touchID.png" width="500">
+<img src="none.png" width="300">
+<img src="faceID.png" width="300">
+<img src="touchID.png" width="300">
