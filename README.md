@@ -1,3 +1,7 @@
 # Домашняя работа iosadv-8
 
-____
+***
+Стек:
+- SwiftUI
+- LocalAuthentication (FaceID/TouchID)
+***
